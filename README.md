@@ -1,5 +1,4 @@
 Robust Image Classification under Noisy Supervision
-
 Overview
 This repository contains an end-to-end image classification pipeline designed to handle noisy training labels. Developed as a solution for the Max Healthcare technical assessment, the project focuses on distinguishing 7 classes of skin images (28$\times$28) using a lightweight Convolutional Neural Network (CNN).
 
@@ -85,8 +84,7 @@ Augmentation: Introduce random rotations and flips to make the model invariant t
 
 Ensembling: Train multiple lightweight models and average their predictions to smooth out variance.
 
-
-
 Author
 Divyansh Sharma
+
 Submitted for the Max Healthcare Technical Assessment.
